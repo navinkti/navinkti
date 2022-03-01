@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.greatvaluecolleges.net%2Fcreative-tech-careers%2F&psig=AOvVaw0RppT0goqZ-OgP1rjPBNSR&ust=1646222494899000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKiopfLupPYCFQAAAAAdAAAAABADg)](https://Navinkt.github.io)
+[![MasterHead](https://media-exp1.licdn.com/dms/image/C4E16AQGDLURwP-MxHQ/profile-displaybackgroundimage-shrink_350_1400/0/1624432677770?e=1649894400&v=beta&t=9ftvnINumN5h6vFaR-FyTOl-2Ov9sR28qcB_c-SqH5k)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.greatvaluecolleges.net%2Fcreative-tech-careers%2F&psig=AOvVaw0RppT0goqZ-OgP1rjPBNSR&ust=1646222494899000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKiopfLupPYCFQAAAAAdAAAAABAD)
 <h1 align="center">Hi 👋, I'm Navin Kumar</h1>
 <h3 align="center">A passionate frontend developer & coder from India</h3>
 
