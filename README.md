@@ -1,4 +1,4 @@
-[![MasterHead](https://drive.google.com/file/d/1rrKVDQpc7Z8pGRlnaUoPmr-TKT0DTf3G/view?usp=sharing)](https://Navinkt.github.io)
+[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.greatvaluecolleges.net%2Fcreative-tech-careers%2F&psig=AOvVaw0RppT0goqZ-OgP1rjPBNSR&ust=1646222494899000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKiopfLupPYCFQAAAAAdAAAAABADg)](https://Navinkt.github.io)
 <h1 align="center">Hi 👋, I'm Navin Kumar</h1>
 <h3 align="center">A passionate frontend developer & coder from India</h3>
 
