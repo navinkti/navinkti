@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Navin Kumar</h1>
-<h3 align="center">A passionate frontend developer & coder from India</h3>
+<h3 align="center">A passionate frontend developer & Coder from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=navinkt&label=Profile%20views&color=0e75b6&style=flat" alt="navinkt" /> </p>
 
@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **navinpatnacitynav@gmail.com**
 
-- ⚡ Fun fact **I think i am coder**
+- ⚡ Fun fact **I think i am a coder**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
