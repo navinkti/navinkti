@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Navin Kumar</h1>
 <h3 align="center">A passionate frontend developer & Coder from India</h3>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=C9F704&lines=Welcome+to+my+profile.+Please+feel+free+to+fork+or+clone.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=C9F704&lines=Welcome+to+my+profile.;+Please+feel+free+to+clone%2Ffork+;+projects%2C+raise+issues+and+submit+PRs+)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=navinkt&label=Profile%20views&color=0e75b6&style=flat" alt="navinkt" /> </p>
 
@@ -29,6 +29,6 @@
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Navinkt&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)
 
  [![navin's github activity graph](https://activity-graph.herokuapp.com/graph?username=Navinkt&theme=react-dark)](https://github.com/Navinkt/github-readme-activity-graph)
-
+<img alt="github contribution snake animation" src="https://github.com/Carol42/Carol42/blob/output/github-contribution-grid-snake.svg">
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=navinkt&show_icons=true&locale=en" alt="navinkt" /></p>
