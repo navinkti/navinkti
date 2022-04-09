@@ -14,7 +14,7 @@
 - 📫 How to reach me **navinpatnacitynav@gmail.com**
 
 - ⚡ Fun fact **I think i am a coder**
-<hr>
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/navinku42640452" target="blank"><img align="center" src="https://raw.githubusercontent.com/Navinkt/image/main/twitter.svg" alt="navinku42640452" height="30" width="40" /></a>
