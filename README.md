@@ -18,6 +18,7 @@
 <p align="center"><a align="center" href="#">
   
   <img align="center" height="300"  src="https://raw.githubusercontent.com/Navinkt/image/main/github.png"/>
+ <img height="50" src="https://raw.githubusercontent.com/Navinkt/image/main/text.gif"/>
         </a></p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
