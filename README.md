@@ -18,7 +18,7 @@
 <a href="#">
   
   <img align="center" height="300"  src="https://raw.githubusercontent.com/Navinkt/image/main/github.png"/>
-  
+        </a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/navinku42640452" target="blank"><img align="center" src="https://raw.githubusercontent.com/Navinkt/image/main/twitter.svg" alt="navinku42640452" height="30" width="40" /></a>
