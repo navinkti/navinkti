@@ -17,8 +17,8 @@
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <p align="center"><a align="center" href="#">
   
-  <img align="center" height="300"  src="https://raw.githubusercontent.com/Navinkt/image/main/github.png"/>
- <img height="500" src="https://raw.githubusercontent.com/Navinkt/image/main/Vanilla-1s-280px%20(1).gif"/>
+  <img align="center" height="300"  src="https://raw.githubusercontent.com/Navinkt/image/main/github.png">
+ <img height="500" src="https://raw.githubusercontent.com/Navinkt/image/main/Vanilla-1s-280px%20(1).gif">
         </a></p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
