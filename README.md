@@ -17,12 +17,12 @@
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <p align="center"><a align="center" href="#">
   
-  <img align="center" height="300" width="50"src="https://raw.githubusercontent.com/Navinkt/image/main/github.png"> 
+  <img align="center" height="300" src="https://raw.githubusercontent.com/Navinkt/image/main/github.png"> 
         <br> 
         </p>
         <div align="center">
           
-  <img align="center"  src="https://github.com/Navinkt/image/blob/main/text.gif">
+  <img align="center" height="100" width="50" src="https://github.com/Navinkt/image/blob/main/text.gif">
         </div>
         </a>
 <h3 align="left">Connect with me:</h3>
