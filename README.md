@@ -19,12 +19,12 @@
   
   <img align="center" height="300" src="https://raw.githubusercontent.com/Navinkt/image/main/github.png"> 
         <br> 
-        </p>
+        </p></a>
         <div align="center">
           
   <img align="center" height="100" width="50" src="https://github.com/Navinkt/image/blob/main/text.gif">
         </div>
-        </a>
+       
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/navinku42640452" target="blank"><img align="center" src="https://raw.githubusercontent.com/Navinkt/image/main/twitter.svg" alt="navinku42640452" height="30" width="40" /></a>
