@@ -22,7 +22,7 @@
         </p></a>
         <div align="center">
           
-  <img align="center" height="100" width="50" src="https://github.com/Navinkt/image/blob/main/text.gif">
+  <img align="center" height="50" width="50" src="https://github.com/Navinkt/image/blob/main/text.gif">
         </div>
        
 <h3 align="left">Connect with me:</h3>
