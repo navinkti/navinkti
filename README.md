@@ -22,7 +22,7 @@
         </p>
         <div align="center">
        
-   <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=C9F704&lines=+ + +TAP+TO+LAUNCH+" alt="tYPING SVG"></a>
+   <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=C9F704&lines=+++++TAP+TO+LAUNCH+" alt="tYPING SVG"></a>
         </div>
         </a>
 <h3 align="left">Connect with me:</h3>
