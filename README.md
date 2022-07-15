@@ -18,7 +18,7 @@
 <p align="center"><a align="center" href="#">
   
   <img align="center" height="300"  src="https://raw.githubusercontent.com/Navinkt/image/main/github.png">
- <img height="500" src="https://raw.githubusercontent.com/Navinkt/image/main/Vanilla-1s-280px%20(1).gif">
+  <a href="https://git.io/typing-svg"><img src=https://readme-typing-svg.herokuapp.com?color=C9F704&lines=TAP+TO+LAUNCH+" alt="tYPING SVG"></a>
         </a></p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
