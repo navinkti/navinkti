@@ -21,8 +21,8 @@
         <br> 
         </p>
         <div align="center">
-       
-  
+          
+  <img align="center" height="100" src="https://github.com/Navinkt/image/blob/main/text.gif">
         </div>
         </a>
 <h3 align="left">Connect with me:</h3>
