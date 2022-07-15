@@ -19,12 +19,12 @@
   
   <img align="center" height="300"  src="https://raw.githubusercontent.com/Navinkt/image/main/github.png"> 
         <br> 
-       
+        </p>
         <div align="center">
-        
-  <a align="center" href="https://git.io/typing-svg"><img src=https://readme-typing-svg.herokuapp.com?color=C9F704&lines=TAP+TO+LAUNCH+ alt="tYPING SVG"></a>
+       
+   <a align="center" href="https://git.io/typing-svg"><img src=https://readme-typing-svg.herokuapp.com?color=C9F704&lines=TAP+TO+LAUNCH+ alt="tYPING SVG"></a>
         </div>
-        </a></p>
+        </a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/navinku42640452" target="blank"><img align="center" src="https://raw.githubusercontent.com/Navinkt/image/main/twitter.svg" alt="navinku42640452" height="30" width="40" /></a>
