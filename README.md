@@ -7,9 +7,9 @@
         <p align="right" ><a href="https://github.com/Navinkt/Navinkt" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/Navinkt/Navinkt?label=profile%20updated&style=flat-square"></a></p>
     <p align="left">  <img src="https://komarev.com/ghpvc/?username=navinkt&label=Profile%20views&color=0e75b6&style=flat" alt="navinkt" /> </p>
 
-- 🔭 I’m currently working on **Tourism Project**
+- 🔭 I’m currently working on **Everything**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Node.js**
 
 - 📫 How to reach me **navinpatnacitynav@gmail.com**
  
@@ -17,7 +17,7 @@
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <p align="center"><a align="center" href="#">
   
-  <img align="center" height="300" src="https://raw.githubusercontent.com/Navinkt/image/main/github.png"> 
+  <img align="center" height="300" width="50"src="https://raw.githubusercontent.com/Navinkt/image/main/github.png"> 
         <br> 
         </p>
         <div align="center">
