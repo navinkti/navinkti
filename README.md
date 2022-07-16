@@ -21,9 +21,9 @@
         <br> 
         </p></a>
         <div align="center">
-          
+          <a href="https://navinkt.github.io/Portfolio/">
   <img align="center" height="30" width="75" src="https://github.com/Navinkt/image/blob/main/text.gif">
-        </div>
+   </a>     </div>
        
 <h3 align="left">Connect with me:</h3>
 <p align="left">
