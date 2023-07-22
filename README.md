@@ -4,8 +4,8 @@
 <div align="center">
     <a href="https://git.io/typing-svg"><img src=https://readme-typing-svg.herokuapp.com?color=C9F704&lines=Welcome+to+my+profile.;+Please+feel+free+to+clone%2Ffork+;+projects%2C+raise+issues+and+submit+PRs++" alt="tYPING SVG"></a>
 </div>
-        <p align="right" ><a href="https://github.com/Navinkt/Navinkt" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/Navinkt/Navinkt?label=profile%20updated&style=flat-square"></a></p>
-    <p align="left">  <img src="https://komarev.com/ghpvc/?username=navinkt&label=Profile%20views&color=0e75b6&style=flat" alt="navinkt" /> </p>
+        <p align="right" ><a href="https://github.com/navinkti/navinkti" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/navinkti/navinkti?label=profile%20updated&style=flat-square"></a></p>
+    <p align="left">  <img src="https://komarev.com/ghpvc/?username=navinkti&label=Profile%20views&color=0e75b6&style=flat" alt="navinkt" /> </p>
 
 - 🔭 I’m currently working on **Everything**
 
@@ -15,22 +15,22 @@
  
 - ⚡ Fun fact **I think i am a coder**
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-<p align="center"><a align="center" href="https://navinkt.github.io/Portfolio/">
+<p align="center"><a align="center" href="https://navinkti.github.io/Portfolio/">
   
-  <img align="center" height="300" src="https://raw.githubusercontent.com/Navinkt/image/main/github.png"> 
+  <img align="center" height="300" src="https://raw.githubusercontent.com/navinkti/image/main/github.png"> 
         <br> 
         </p></a>
         <div align="center">
-          <a href="https://navinkt.github.io/Portfolio/">
-  <img align="center" height="30" width="75" src="https://github.com/Navinkt/image/blob/main/text.gif">
+          <a href="https://navinkti.github.io/Portfolio/">
+  <img align="center" height="30" width="75" src="https://github.com/navinkti/image/blob/main/text.gif">
    </a>     </div>
        
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/navinku42640452" target="blank"><img align="center" src="https://raw.githubusercontent.com/Navinkt/image/main/twitter.svg" alt="navinku42640452" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/navin-kumar-5748721a7" target="blank"><img align="center" src="https://raw.githubusercontent.com/Navinkt/image/main/linked-in-alt.svg" alt="navin-kumar-5748721a7" height="30" width="40" /></a>
+<a href="https://twitter.com/navinku42640452" target="blank"><img align="center" src="https://raw.githubusercontent.com/navinkti/image/main/twitter.svg" alt="navinku42640452" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/navin-kumar-5748721a7" target="blank"><img align="center" src="https://raw.githubusercontent.com/navinkti/image/main/linked-in-alt.svg" alt="navin-kumar-5748721a7" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/navinkti" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="navinkti" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@navinpatnacityn1" target="blank"><img align="center" src="https://raw.githubusercontent.com/Navinkt/image/main/hackerrank.svg" alt="@navinpatnacityn1" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@navinkti" target="blank"><img align="center" src="https://raw.githubusercontent.com/navinkti/image/main/hackerrank.svg" alt="@navinpatnacityn1" height="30" width="40" /></a>
 </p>
 <hr>
 <h3 align="left">Languages and Tools:</h3>
