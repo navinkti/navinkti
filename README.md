@@ -41,7 +41,7 @@
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Navinkti&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)
 <br>
 
- [![navin's github activity graph](https://activity-graph.herokuapp.com/graph?username=Navinkti&theme=react-dark)](https://github.com/Navinkt/github-readme-activity-graph) 
+ [![navin's github activity graph](https://activity-graph.herokuapp.com/graph?username=Navinkti&theme=react-dark)](https://github.com/Navinkti/github-readme-activity-graph) 
    <hr>   
 <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Navinkti/navinktsnake-ouput/main/github-contribution-grid-snake.svg">
 <div align="center">
