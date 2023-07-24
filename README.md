@@ -38,14 +38,14 @@
 <hr>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Navinkti&show_icons=true&locale=en&layout=compact" alt="Navinkt" /></p>
 
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Navinkt&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Navinkti&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)
 <br>
 
- [![navin's github activity graph](https://activity-graph.herokuapp.com/graph?username=Navinkt&theme=react-dark)](https://github.com/Navinkt/github-readme-activity-graph) 
+ [![navin's github activity graph](https://activity-graph.herokuapp.com/graph?username=Navinkti&theme=react-dark)](https://github.com/Navinkt/github-readme-activity-graph) 
    <hr>   
-<img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Navinkt/navinktsnake-ouput/main/github-contribution-grid-snake.svg">
+<img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Navinkti/navinktsnake-ouput/main/github-contribution-grid-snake.svg">
 <div align="center">
- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=navinkt&show_icons=true&locale=en" alt="navinkt" /></p>
+ <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=navinkti&show_icons=true&locale=en" alt="navinkt" /></p>
     <a href="https://git.io/typing-svg">
         <img alt="thanks for your visit" src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=24&center=true&vCenter=true&width=300&lines=Thanks+for+your+visit!" >
     </a>
